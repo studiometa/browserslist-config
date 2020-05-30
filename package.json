@@ -1,0 +1,35 @@
+{
+  "name": "@studiometa/browserslist-config",
+  "version": "1.0.0",
+  "description": "A shareable Browserslist configuration",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiometa/browserslist-config.git"
+  },
+  "keywords": [
+    "browserslist",
+    "config"
+  ],
+  "author": "Studio Meta <agence@studiometa.fr> (https://www.studiometa.fr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studiometa/browserslist-config/issues"
+  },
+  "homepage": "https://github.com/studiometa/browserslist-config#readme",
+  "devDependencies": {
+    "@studiometa/eslint-config": "^2.1.1",
+    "@studiometa/prettier-config": "^2.0.1",
+    "browserslist": "^4.12.0",
+    "eslint": "^7.1.0",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5"
+  }
+}
