@@ -1,6 +1,6 @@
 {
   "name": "@studiometa/browserslist-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shareable Browserslist configuration",
   "main": "src/index.js",
   "scripts": {
