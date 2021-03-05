@@ -27,7 +27,7 @@
   "devDependencies": {
     "@studiometa/eslint-config": "^2.1.1",
     "@studiometa/prettier-config": "^2.0.1",
-    "browserslist": "^4.12.0",
+    "browserslist": "^4.16.3",
     "eslint": "^7.1.0",
     "jest": "^26.0.1",
     "prettier": "^2.0.5"
