@@ -29,7 +29,7 @@
     "@studiometa/prettier-config": "^2.0.1",
     "browserslist": "^4.12.0",
     "eslint": "^7.1.0",
-    "jest": "^26.0.1",
+    "jest": "^26.6.3",
     "prettier": "^2.0.5"
   }
 }
